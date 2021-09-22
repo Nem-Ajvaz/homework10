@@ -61,7 +61,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Installation
 
-Clone my repo using the following command `git clone https://github.com/Nem-Ajvaz/Team-Profile-Generator` and then install jest using `npm install jest`
+Clone my repo using the following command `git clone https://github.com/Nem-Ajvaz/homework10` and then install jest using `npm install jest`
 
 ## Usage
 
