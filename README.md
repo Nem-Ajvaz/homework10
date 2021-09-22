@@ -70,8 +70,4 @@ Navigate the terminal to index.js in the cloned repo and run `node index.js` to 
 ## Questions
 
 For any further questions please reach out to my email :Email: nemanja.ajvaz@gmail.com or message me on GitHub:(https://github.com/Nem-Ajvaz)
-# homework10
-# homework10
-# homework10
-# homework10
-# homework10
+
